@@ -1,1 +1,1 @@
-<header><p>Home | About | Contact Us<p></header>
+<header><p>Home | About | Contact Us</p></header>
