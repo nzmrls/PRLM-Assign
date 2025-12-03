@@ -32,3 +32,18 @@ h2 {
   padding: 20px;
   text-align: center;
 }
+
+table {
+    width: 75%;
+    margin: auto;
+    border: 2px solid black;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    background: #000080;
+    color: white;
+}
